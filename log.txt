@@ -1,0 +1,16 @@
+mode 1: Table created successfully. | Time: 0.0025 seconds
+mode 2: Employee Ivanov Petr Sergeevich added successfully. | Time: 0.0020 seconds
+mode 3: Employees list displayed. | Time: 0.0095 seconds
+mode 4: 1,000,100 employees inserted successfully. | Time: 8.6797 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1333 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1319 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1448 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1354 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1308 seconds
+mode 6: Index created successfully. | Time: 1.0028 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1320 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1296 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1291 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1291 seconds
+mode 5: Query executed. Records found: 19486 | Time: 0.1297 seconds
+mode 1: Table created successfully. | Time: 0.0025 seconds
